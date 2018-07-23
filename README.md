@@ -4,7 +4,7 @@ This web app is the third project of Udacity's Front-end Nanodegree. The aim is 
 
 ## Before Starting
 
-To use the app, download the [Github repository](https://github.com/JohPik/fend-project-memory-game/archive/master.zip).
+To use the app, download the [Github repository](https://github.com/JohPik/frontend-nanodegree-feedreader.git).
 
 ### Prerequisites
 
