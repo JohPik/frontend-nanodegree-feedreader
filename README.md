@@ -5,12 +5,11 @@ This web app is the third project of Udacity's Front-end Nanodegree. The aim is 
 ## Before Starting
 
 To use the app, download the [Github repository](https://github.com/JohPik/frontend-nanodegree-feedreader.git).
+"Open 'index.html' in a browser of your choice to see the tests"
 
 ### Prerequisites
 
 There is no prerequisites except form having a modern browser installed.
-
-
 
 ## Built With
 
@@ -18,8 +17,6 @@ There is no prerequisites except form having a modern browser installed.
 * CSS
 * Javascript
 * Jasmine JS
-
-
 
 ## Authors
 
