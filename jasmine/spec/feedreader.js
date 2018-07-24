@@ -89,7 +89,7 @@ $(function() {
         menu.click();
         expect(body.classList).not.toContain("menu-hidden");
         menu.click();
-        expect(menuHidden).toBe(true);
+        expect(body.classList).toContain("menu-hidden");
         });
       });
 
